@@ -1,0 +1,38 @@
+# This file should contain all the record creation needed to seed the database with its default values.
+# The data can then be loaded with the bin/rails db:seed command (or created alongside the database with db:setup).
+#
+# Examples:
+#
+#   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
+#   Character.create(name: "Luke", movie: movies.first)
+
+Trainer.create(name: "Carey Jones", location: "los angeles", image: "https://ozgrozer.github.io/100k-faces/0/5/005797.jpg", age: 62 )
+Trainer.create(name: "Tyler Steil", location: "los angeles", image: "https://ozgrozer.github.io/100k-faces/0/1/001235.jpg", age: 29 )
+Trainer.create(name: "Sally Steelz", location: "los angeles", image: "https://ozgrozer.github.io/100k-faces/0/0/000938.jpg", age: 27 )
+Trainer.create(name: "Joe Dirt", location: "los angeles", image: "https://ozgrozer.github.io/100k-faces/0/4/004253.jpg", age: 36 )
+Trainer.create(name: "Kate Price", location: "los angeles", image: "https://ozgrozer.github.io/100k-faces/0/1/001464.jpg", age: 35 )
+Trainer.create(name: "John Brown", location: "san diego", image: "https://ozgrozer.github.io/100k-faces/0/6/006878.jpg", age: 32 )
+Trainer.create(name: "Sussan Stevens", location: "san diego", image: "https://ozgrozer.github.io/100k-faces/0/1/001676.jpg", age: 44 )
+Trainer.create(name: "Javier Biaz", location: "san diego", image: "https://ozgrozer.github.io/100k-faces/0/9/009212.jpg", age: 30 )
+Trainer.create(name: "Nicole Kate", location: "san diego", image: "https://ozgrozer.github.io/100k-faces/0/4/004486.jpg", age: 38 )
+Trainer.create(name: "Brittney James", location: "san diego", image: "https://ozgrozer.github.io/100k-faces/0/6/006233.jpg", age: 41 )
+Trainer.create(name: "Chris Stewart", location: "san francisco", image: "https://ozgrozer.github.io/100k-faces/0/4/004996.jpg", age: 40 )
+Trainer.create(name: "Jose Martinez", location: "san francisco", image: "https://ozgrozer.github.io/100k-faces/0/1/001742.jpg", age: 35 )
+Trainer.create(name: "Jeffery Pink", location: "san francisco", image: "https://ozgrozer.github.io/100k-faces/0/9/009521.jpg", age: 32 )
+Trainer.create(name: "Johnny Drama", location: "san francisco", image: "https://ozgrozer.github.io/100k-faces/0/2/002284.jpg", age: 44 )
+Trainer.create(name: "Steve Gibbens", location: "san francisco", image: "https://ozgrozer.github.io/100k-faces/0/9/009929.jpg", age: 43 )
+Trainer.create(name: "Charlie Terris", location: "austin", image: "https://ozgrozer.github.io/100k-faces/0/4/004917.jpg", age: 48 )
+Trainer.create(name: "Sally Fields", location: "austin", image: "https://ozgrozer.github.io/100k-faces/0/6/006281.jpg", age: 29 )
+Trainer.create(name: "Wiley Smokler", location: "austin", image: "https://ozgrozer.github.io/100k-faces/0/3/003536.jpg", age: 39 )
+Trainer.create(name: "Rebecca Washington", location: "austin", image: "https://ozgrozer.github.io/100k-faces/0/5/005791.jpg", age: 27 )
+Trainer.create(name: "Hunter Varnum", location: "austin", image: "https://ozgrozer.github.io/100k-faces/0/6/006820.jpg", age: 52 )
+Trainer.create(name: "Veronica Martin", location: "houston", image: "https://ozgrozer.github.io/100k-faces/0/3/003028.jpg", age: 25 )
+Trainer.create(name: "Nicole Fitzgerald", location: "houston", image: "https://ozgrozer.github.io/100k-faces/0/5/005266.jpg", age: 47 )
+Trainer.create(name: "Fei Teo", location: "houston", image: "https://ozgrozer.github.io/100k-faces/0/9/009356.jpg", age: 29 )
+Trainer.create(name: "Mary Walls", location: "houston", image: "https://ozgrozer.github.io/100k-faces/0/9/009450.jpg", age: 32 )
+Trainer.create(name: "Pedro Pescal", location: "houston", image: "https://ozgrozer.github.io/100k-faces/0/5/005483.jpg", age: 37 )
+Trainer.create(name: "Alexis Jones", location: "dallas", image: "https://ozgrozer.github.io/100k-faces/0/0/000082.jpg", age: 24 )
+Trainer.create(name: "Nate Becker", location: "dallas", image: "https://ozgrozer.github.io/100k-faces/0/1/001575.jpg", age: 29 )
+Trainer.create(name: "Brad Boors", location: "dallas", image: "https://ozgrozer.github.io/100k-faces/0/1/001554.jpg", age: 39 )
+Trainer.create(name: "Scotty Bones", location: "dallas", image: "https://ozgrozer.github.io/100k-faces/0/7/007784.jpg", age: 25 )
+Trainer.create(name: "Lori Rodgers", location: "dallas", image: "https://ozgrozer.github.io/100k-faces/0/8/008214.jpg", age: 31 )
